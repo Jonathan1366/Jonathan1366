@@ -1,8 +1,6 @@
 # 💫 About Me
 
-Hello! I’m a Computer Science student and tech entrepreneur passionate about building software that solves real-world problems. I see code not just as syntax, but as a tool for innovation, impact, and transformation. Whether it's optimizing backend systems, enhancing user experiences, or integrating modern infrastructure — my goal is to build products that matter.
-
-As a founder and engineer, I combine technical execution with user-centric thinking and long-term vision. I believe great technology should not only be scalable and efficient, but also meaningful — empowering users, enabling businesses, and creating tangible value in everyday life.
+I’m a Computer Science student with hands-on experience building scalable backend systems, fullstack apps, and applied machine learning solutions. I specialize in Golang, Flutter, React, PostgreSQL, Redis, Supabase, and PyTorch, and I've shipped real products from idea to production.
 
 ---
 
