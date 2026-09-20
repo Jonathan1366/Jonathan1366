@@ -1,388 +1,296 @@
 <div align="center">
 
-# Jonathan Farrel Emanuel
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0B3D5C,100:00ADD8&text=Jonathan%20Farrel%20Emanuel&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Golang%20Backend%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20%26%20Web3&descAlignY=58&descSize=17&animation=fadeIn" />
 
-### Backend Engineer | AI Agents, Real-Time Data Systems & Decision Intelligence
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00ADD8&center=true&vCenter=true&width=1000&lines=3%2B+Years+of+Production+Backend+Engineering;Go-first+%7C+Distributed+Systems+%7C+Real-Time+Infrastructure;Full-Stack+with+TypeScript%2C+React%2C+SvelteKit+%26+Flutter;Building+AI+Agents%2C+Market+Systems+%26+Web3+Infrastructure;Engineering+systems+from+backend+to+product" alt="Typing SVG" />
 
-Building scalable systems that connect backend engineering, AI, data infrastructure, Web3, and intelligent decision-making.
+<br/>
+
+<a href="mailto:jonathanfarelemanuel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jonathanfarrel/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Jonathan1366">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
+👋 About Me
 
-# 💫 About Me
+I am a Golang Backend Engineer with 3+ years of production experience building backend services, distributed systems, APIs, event-driven workflows, cloud-native applications, observability platforms, and data-intensive systems.
 
-Hi, I'm **Jonathan Farrel Emanuel** — a Backend Engineer focused on building scalable, intelligent, and data-driven systems.
+My engineering core is Go + backend/distributed systems, while I am deliberately expanding into full-stack product engineering, AI/ML systems, Web3 infrastructure, real-time market platforms, and cross-platform applications.
 
-I work across **backend engineering, distributed systems, applied machine learning, real-time data infrastructure, AI-powered platforms, and decision-support systems**. My experience includes building production-ready services and applications using **Go, Python, Kafka, PostgreSQL, Redis, Docker, Kubernetes, Terraform, Flutter, React, and PyTorch**.
+I care about systems that are not only functional, but also scalable, observable, testable, secure, fault-tolerant, and useful in real products.
 
-My current direction is centered around **AI agents, real-time data systems, decision intelligence, Web3 infrastructure, market data platforms, and high-performance backend architecture**. I am interested in building systems that can process complex data, extract meaningful signals, automate research workflows, analyze risk, and support better decision-making at scale.
-
-I enjoy working at the intersection of **software engineering, machine learning, data infrastructure, financial technology, digital assets, and product strategy** — turning ideas into reliable systems that can grow into real products and platforms.
-
----
-
-# 🧠 Core Focus Areas
-
-- **Backend & Distributed Systems** — building scalable APIs, services, and event-driven architectures
-- **AI Agents & Applied Machine Learning** — developing intelligent automation and decision-support workflows
-- **Real-Time Data Infrastructure** — processing high-volume, time-sensitive data through reliable pipelines
-- **Decision Intelligence** — transforming complex data into structured insights, signals, and actions
-- **Web3 & Digital Asset Systems** — exploring blockchain data, Bitcoin, smart contracts, exchanges, and on-chain analytics
-- **Backtesting & Simulation Systems** — testing ideas, rules, and strategies against historical data
-- **Risk-Aware Systems** — designing tools that support monitoring, exposure control, and disciplined decision-making
-- **Business-Oriented Technology** — creating software foundations that can grow into scalable products and companies
-
----
-
-# 🚀 Current Direction
-
-I am building deeper expertise in systems that combine:
-
-```text
 Backend Engineering
-        ↓
+      ↓
 Distributed Systems
-        ↓
+      ↓
 Real-Time Data Infrastructure
-        ↓
-AI Agents & Machine Learning
-        ↓
-Decision Intelligence
-        ↓
-Web3, Market Data & Risk Systems
-        ↓
+      ↓
+Full-Stack Product Engineering
+      ↓
+AI / ML Systems
+      ↓
+Web3 & Market Infrastructure
+      ↓
 Scalable Products & Platforms
-```
 
-My focus is not only on writing code, but also on understanding how reliable systems, intelligent automation, strong architecture, and disciplined execution can create leverage for users, teams, businesses, and future platforms.
+⚙️ Engineering Profile
 
-I am especially interested in building platforms for:
+Area
 
-- Real-time data processing
-- Market data infrastructure
-- Research automation
-- Signal extraction
-- Risk-aware workflows
-- Analytics infrastructure
-- Backtesting and simulation
-- Web3 and Bitcoin analytics
-- AI-powered productivity systems
-- High-performance backend platforms
-- Data-intensive product development
+Focus
 
----
+Core Engineering
 
-# 🛠️ Tech Stack
+Go, Distributed Systems, REST/gRPC/GraphQL, Concurrency, Event-Driven Architecture
 
-## Backend & Infrastructure
+Data & Messaging
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+PostgreSQL, Redis, Kafka, SQL, Transactions, Caching, Data Modeling
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0B132B?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-1C2541?style=for-the-badge)
+Cloud & Platform
 
----
+Docker, Kubernetes, Terraform, AWS, GCP, Linux, CI/CD
 
-## Cloud & Platform
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## AI, Data & Intelligence Systems
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-1A1A1A?style=for-the-badge)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge)
-![Data Infrastructure](https://img.shields.io/badge/Data%20Infrastructure-0B132B?style=for-the-badge)
-![Real Time Systems](https://img.shields.io/badge/Real--Time%20Systems-1C2541?style=for-the-badge)
-![Decision Intelligence](https://img.shields.io/badge/Decision%20Intelligence-3A506B?style=for-the-badge)
-![Risk Analytics](https://img.shields.io/badge/Risk%20Analytics-5BC0BE?style=for-the-badge)
-
----
-
-## Web3, Market Systems & Research Tools
-
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-121212?style=for-the-badge)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-0B132B?style=for-the-badge)
-![On Chain Analytics](https://img.shields.io/badge/On--Chain%20Analytics-1C2541?style=for-the-badge)
-![Pine Script](https://img.shields.io/badge/Pine%20Script-2962FF?style=for-the-badge)
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![Backtesting](https://img.shields.io/badge/Backtesting-3A506B?style=for-the-badge)
-![Market Data](https://img.shields.io/badge/Market%20Data-5BC0BE?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time%20Series-0B132B?style=for-the-badge)
-
----
-
-## Frontend & Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-# 📌 Engineering Interests
-
-```text
-Distributed Systems
-Event-Driven Architecture
-Real-Time Data Processing
-Data Pipelines
-Backend Architecture
-AI Agents
-LLM Applications
-Machine Learning Systems
 Observability
-Risk-Aware Systems
-Decision Intelligence
-Analytics Platforms
-High-Volume Data Systems
-Platform Engineering
-Product Engineering
-Web3 Infrastructure
-Bitcoin Analytics
-On-Chain Data
-Backtesting Engines
-Pine Script
-TradingView Automation
-Market Data Systems
-Simulation Engines
-Portfolio Monitoring
-Business Systems
-```
 
----
+OpenTelemetry, Prometheus, Grafana, Structured Logging, Tracing, Metrics
 
-# 🧪 Systems I'm Exploring
+Full-Stack
 
-## 1. Real-Time Data Platform
+TypeScript, JavaScript, React, SvelteKit, Node.js, Flutter/Dart
 
-A backend system for ingesting, processing, normalizing, and analyzing high-volume data streams.
+AI / ML
 
-**Focus:**
+Python, PyTorch, OpenCV, RAG, LLM Applications, AI Agents
 
-- WebSocket/event ingestion
-- Kafka-based streaming
-- Data normalization
-- PostgreSQL/TimescaleDB storage
-- Real-time analytics
-- Monitoring and observability
-- API design for data access
+Web3 / Market Systems
 
----
+Ethereum, Solidity, Solana ecosystem, Wallet Systems, On-Chain Data, Market Data
 
-## 2. AI-Powered Research Assistant
+Expanding Systems Depth
 
-An AI assistant designed to collect information, summarize key events, classify signals, and generate structured research notes.
+Java, C++, Kotlin, PHP, High-Performance & Systems Programming
 
-**Focus:**
+Positioning: Go-first backend engineer with broad full-stack capability — building depth through real projects, production-style architecture, testing, observability, and open-source contribution.
 
-- Multi-source data ingestion
-- LLM-based summarization
-- Agentic workflows
-- Event classification
-- Signal extraction
-- Research automation
-- Human-in-the-loop validation
+🧰 Technology Stack
 
----
+Core Backend & Systems
 
-## 3. Backtesting & Simulation Engine
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,terraform,aws,gcp,linux,git,github&perline=11" />
+</p>
 
-A system for testing rules, hypotheses, and decision logic against historical data.
 
-**Focus:**
 
-- Historical data processing
-- Strategy simulation
-- Performance metrics
-- Drawdown analysis
-- Risk/reward calculation
-- Position sizing logic
-- Report generation
 
----
 
-## 4. Risk & Monitoring Dashboard
 
-A dashboard for tracking exposure, performance, risk, system health, and decision outcomes.
 
-**Focus:**
+Full-Stack & Application Engineering
 
-- Risk metrics
-- Performance tracking
-- Portfolio-style monitoring
-- Data visualization
-- Alerting systems
-- Decision review workflows
-- Trade and system journaling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,flutter,dart&perline=7" />
+</p>
 
----
+Polyglot & Systems Expansion
 
-## 5. Agentic Decision Platform
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,php&perline=5" />
+</p>
 
-A multi-agent system that assists with research, analysis, validation, and structured decision support.
+AI / ML / Intelligent Systems
 
-**Focus:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=3" />
+</p>
 
-- AI agent orchestration
-- Tool-using agents
-- Data analysis workflows
-- Guardrails and validation
-- Human-in-the-loop review
-- Intelligent automation
-- Multi-step research workflows
 
----
 
-## 6. Web3 & Digital Asset Analytics
 
-A system for analyzing blockchain activity, exchange data, and digital asset movements.
 
-**Focus:**
 
-- On-chain data ingestion
-- Wallet and transaction monitoring
-- Exchange data integration
-- Token and Bitcoin analytics
-- Risk signals
-- Market structure insights
-- Digital asset dashboards
+Web3 / Blockchain / Market Infrastructure
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity&perline=1" />
+</p>
 
-## 7. Pine Script & Chart-Based Research
 
-A collection of Pine Script indicators and strategy prototypes for visual research and rule-based testing.
 
-**Focus:**
 
-- Trend and momentum indicators
-- Support and resistance logic
-- Volume-based confirmation
-- Risk/reward visualization
-- Entry and exit rule testing
-- TradingView research workflow
-- Strategy alerts and validation
 
----
 
-# 🧭 Product Direction
 
-I am interested in building products that combine:
 
-```text
-Data Infrastructure
-        +
-AI Agents
-        +
-Research Automation
-        +
-Risk-Aware Analytics
-        +
-Real-Time Systems
-        +
-Business Execution
-```
+🚀 Selected Engineering Work
 
-The goal is to build reliable technology that helps people and organizations process information faster, understand risk better, automate complex workflows, and make more informed decisions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+🔭 Observe System
 
-# 📚 Learning Path
+Go · Observability · Distributed Systems
 
-I am continuously building across these domains:
+Production-style observability backend focused on service health, traces, logs, metrics, and operational investigation.
 
-- Backend Engineering
-- Distributed Systems
-- Data Engineering
-- Machine Learning
-- AI Agents
-- Real-Time Systems
-- Decision Intelligence
-- Risk Analytics
-- Platform Engineering
-- Product Strategy
-- Business Systems
-- Web3 Infrastructure
-- Bitcoin and Digital Asset Analytics
-- Pine Script and TradingView Research
-- Backtesting and Simulation
-- Market Data Engineering
+View Repository →
 
----
+</td>
+<td width="50%" valign="top">
 
-# 🧱 Repository Ideas
+🚘 RevAuto
 
-Some systems and repositories I am building or planning to explore:
+TypeScript · Product Engineering · Full-Stack
 
-```text
-real-time-data-platform
-ai-research-assistant
-backtesting-simulation-engine
-risk-monitoring-dashboard
-agentic-decision-platform
-web3-analytics-pipeline
-bitcoin-market-intelligence
-pine-script-research-lab
-market-data-api
-portfolio-monitoring-system
-```
+A real-world product platform representing my work across application architecture, product workflows, testing, and full-stack engineering.
 
----
+View Repository →
 
-# 🎯 Long-Term Vision
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-My long-term direction is to build technology that connects **engineering, intelligence, data, risk, and strategic decision-making**.
+⛓️ Blockchain Money Transfer
 
-I want to create systems that help people and organizations process information faster, understand risk better, automate complex workflows, and make more informed decisions through scalable infrastructure and intelligent software.
+Go · Transactions · Blockchain Concepts
 
-```text
-Build reliable systems.
-Extract meaningful signals.
-Automate complex workflows.
-Manage risk with discipline.
-Create leverage through technology.
-Compound knowledge, execution, and ownership.
-```
+A Go backend project exploring wallet and transfer workflows, layered backend structure, persistence, and blockchain-oriented systems.
 
----
+View Repository →
 
-# 📊 GitHub Stats
+</td>
+<td width="50%" valign="top">
 
-![](https://github-readme-stats.vercel.app/api?username=Jonathan1366&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+🧠 VisionLab
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathan1366&theme=nightowl&hide_border=false)
+Python · Computer Vision · ML
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan1366&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer-vision experimentation and applied ML engineering across model development, inference, and real-time processing.
 
----
+View Repository →
+
+</td>
+</tr>
+</table>
+
+🏗️ Flagship Systems I Am Building
+
+1. marketstream-go
+
+Go · Kafka · WebSocket · PostgreSQL/TimescaleDB · Redis · OpenTelemetry
+
+Real-time market-data infrastructure for ingesting, normalizing, processing, storing, and serving high-frequency exchange data with production-style reliability and observability.
+
+2. chain-indexer-go
+
+Go · Ethereum/EVM · RPC/WebSocket · PostgreSQL · Redis · Kafka
+
+Blockchain indexing infrastructure for blocks, transactions, contract events, wallet activity, confirmations, retries, reorg handling, and API access.
+
+3. agentic-trading-lab
+
+Go · SvelteKit · TypeScript · Python · AI Agents · Backtesting
+
+A full-stack research and paper-trading platform combining real-time market data, AI-assisted research, backtesting, risk controls, human approval, and analytical workflows.
+
+4. wallet-ledger-go
+
+Go · PostgreSQL · Transactions · Concurrency · Web3
+
+A concurrency-safe double-entry ledger and wallet service with idempotency, audit trails, atomic transfers, transaction states, and settlement adapters.
+
+5. ai-model-lab
+
+Python · PyTorch · OpenCV · Model Serving · Real-Time Inference
+
+A research-to-production ML repository covering model training, evaluation, inference optimization, serving, monitoring, and eventually custom model development.
+
+6. systems-performance-lab
+
+C++ · Go · Benchmarking · Concurrency · Networking
+
+A systems-focused repository for performance-critical components, order-book structures, networking experiments, memory/performance profiling, and algorithmic engineering.
+
+📱 Full-Stack & Cross-Platform Direction
+
+I am intentionally building projects that prove end-to-end engineering capability rather than only listing technologies.
+
+Web Frontend        → TypeScript / React / SvelteKit
+Backend APIs        → Go / Node.js / Java / Python
+Mobile              → Flutter / Dart / Kotlin
+Data                → PostgreSQL / Redis / Kafka
+AI & ML             → Python / PyTorch / OpenCV / LLM Systems
+Cloud               → Docker / Kubernetes / Terraform / AWS / GCP
+Web3                → Ethereum / Solidity / Solana / On-Chain Infrastructure
+Systems             → Go / C++ / Linux / Networking / Concurrency
+
+🌍 Open Source & Engineering Growth
+
+I am building toward meaningful contributions across:
+
+Go ecosystem · OpenTelemetry · Observability · Distributed systems · Svelte/SvelteKit · Web3 infrastructure · Ethereum tooling · Solana ecosystem · AI/ML tooling
+
+The goal is not contribution-count farming — it is to contribute fixes, tests, features, performance improvements, documentation, and engineering work that demonstrates real understanding.
+
+📊 Engineering Activity
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Jonathan1366&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jonathan1366&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan1366&theme=github-dark-blue&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan1366&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
 
 </div>
 
-<!-- Building intelligent systems for real-time data, decision intelligence, Web3 analytics, and scalable platforms. -->
+🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jonathan1366/Jonathan1366/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+🎯 What I Optimize For
+
+Correctness      → reliable behavior under real failure modes
+Performance      → efficient CPU, memory, I/O, and database usage
+Scalability      → systems that grow beyond a single process
+Observability    → traces, metrics, logs, and actionable debugging
+Security         → safe defaults, validation, access control, secrets hygiene
+Testing          → unit, integration, end-to-end, and deterministic workflows
+Product Value    → software that solves meaningful user and business problems
+Ownership        → architecture → implementation → deployment → operation
+
+🤝 Let's Connect
+
+I am interested in challenging engineering work across backend systems, full-stack products, platform engineering, AI/ML infrastructure, real-time systems, fintech, Web3, and globally distributed engineering teams.
+
+<div align="center">
+
+<a href="mailto:jonathanfarelemanuel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jonathanfarrel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Jonathan1366&style=for-the-badge&color=00ADD8" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:0B3D5C,100:00ADD8" />
+
+</div>
