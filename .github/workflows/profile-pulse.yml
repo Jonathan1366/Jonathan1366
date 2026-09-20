@@ -1,0 +1,43 @@
+name: Refresh project pulse
+on:
+  schedule:
+    - cron: '2-57/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/profile_pulse.py'
+      - 'scripts/test_profile_pulse.py'
+      - '.github/workflows/profile-pulse.yml'
+permissions:
+  contents: write
+concurrency:
+  group: profile-pulse
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Test metric calculations
+        run: python3 -m unittest discover -s scripts -p 'test_profile_pulse.py'
+      - name: Read fresh public project data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/profile_pulse.py --output "$RUNNER_TEMP/profile-pulse-output"
+      - name: Publish data without changing the profile source
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin profile-metrics
+          git worktree add --detach "$RUNNER_TEMP/profile-metrics" FETCH_HEAD
+          cp "$RUNNER_TEMP/profile-pulse-output/pulse.svg" "$RUNNER_TEMP/profile-metrics/pulse.svg"
+          cp "$RUNNER_TEMP/profile-pulse-output/metrics.json" "$RUNNER_TEMP/profile-metrics/metrics.json"
+          cd "$RUNNER_TEMP/profile-metrics"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add pulse.svg metrics.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'chore: refresh public project metrics'
+          git push origin HEAD:refs/heads/profile-metrics

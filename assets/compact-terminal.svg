@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="156" viewBox="0 0 900 156" role="img" aria-labelledby="title desc">
+<title id="title">Jonathan — Go Backend Engineer</title>
+<desc id="desc">Compact animated terminal. Go and distributed systems are the core; Rust and C++ are systems exploration.</desc>
+<style>
+.code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.cursor{animation:blink 1.2s steps(1,end) infinite}.packet{animation:flow 5s linear infinite}.command{animation:focus 6s ease-in-out infinite}
+@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:0}}@keyframes flow{0%{transform:translateX(0);opacity:0}15%,80%{opacity:1}100%{transform:translateX(218px);opacity:0}}@keyframes focus{0%,100%{opacity:.65}40%,75%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.cursor,.packet,.command{animation:none}.packet{opacity:0}}
+</style>
+<rect width="900" height="156" rx="12" fill="#0d1117"/><rect x="1" y="1" width="898" height="154" rx="11" fill="none" stroke="#30363d"/>
+<path d="M1 32h898M570 32v123" stroke="#30363d"/>
+<circle cx="18" cy="17" r="4" fill="#ff5f57"/><circle cx="32" cy="17" r="4" fill="#febc2e"/><circle cx="46" cy="17" r="4" fill="#28c840"/>
+<g class="code">
+<text x="68" y="21" fill="#9da7b3" font-size="11">jonathan / main.go</text><text x="879" y="21" fill="#2dd4bf" font-size="10" text-anchor="end">BACKEND · DISTRIBUTED SYSTEMS</text>
+<text x="22" y="64" fill="#e6edf3" font-size="23" font-weight="700">Jonathan / Go Backend Engineer</text>
+<text class="command" x="22" y="96" fill="#79c0ff" font-size="15" xml:space="preserve">go func() { consume(events) }()</text>
+<text x="22" y="130" fill="#2dd4bf" font-size="13">➜</text><text x="44" y="130" fill="#c9d1d9" font-size="13">build → observe → improve</text><rect class="cursor" x="243" y="119" width="7" height="14" fill="#2dd4bf"/>
+<text x="594" y="62" fill="#2dd4bf" font-size="11">CORE</text><text x="594" y="83" fill="#c9d1d9" font-size="13">Go · Kafka · PostgreSQL</text>
+<text x="594" y="109" fill="#a5b4fc" font-size="11">EXPLORING</text><text x="594" y="130" fill="#c9d1d9" font-size="13">Rust / C++ · AI · Web3</text>
+<path d="M594 143h280" stroke="#24445e" stroke-dasharray="3 5"/><rect class="packet" x="595" y="141" width="24" height="3" rx="1" fill="#2dd4bf"/>
+</g></svg>
