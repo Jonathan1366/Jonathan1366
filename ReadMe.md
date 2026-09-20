@@ -1,265 +1,302 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:0B3D5C,100:00ADD8&text=Jonathan%20Farrel%20Emanuel&fontColor=FFFFFF&fontSize=42&fontAlignY=34&desc=Golang%20Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Web3&descAlignY=54&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,35:0B1F3A,70:003B5C,100:00C2FF&text=Jonathan%20Farrel%20Emanuel&fontColor=E6F7FF&fontSize=34&fontAlignY=34&desc=Go-first%20Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Web3%20%26%20Trading%20Infrastructure&descAlignY=56&descSize=16&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00ADD8&center=true&vCenter=true&width=1000&lines=3%2B+Years+of+Production+Backend+Engineering;Go-first+%7C+Distributed+Systems+%7C+Real-Time+Infrastructure;Full-Stack+with+TypeScript%2C+React%2C+SvelteKit+%26+Flutter;Building+AI+Agents%2C+Market+Systems+%26+Web3+Infrastructure;Engineering+systems+from+backend+to+product" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=750&color=00E7FF&center=true&vCenter=true&width=1100&lines=%24+whoami+%E2%86%92+Jonathan+Farrel+Emanuel;%24+role+%E2%86%92+Golang+Backend+Engineer+(3%2B+Years);%24+focus+%E2%86%92+Distributed+Systems+%7C+AI+%7C+Trading+%7C+Web3;%24+stack+%E2%86%92+Go+%7C+PostgreSQL+%7C+Kafka+%7C+Redis+%7C+Kubernetes;%24+frontend+%E2%86%92+TypeScript+%7C+React+%7C+Next.js+%7C+SvelteKit;%24+expanding+%E2%86%92+Rust+%7C+C%2B%2B+%7C+ML+%7C+Machine+Systems" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Actively_Building-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-AI_Agents_%7C_Distributed_Systems-0B3D5C?style=for-the-badge&logo=robotframework&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Open_to-Backend_%2F_Platform_Roles-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=00ADD8&labelColor=0D1117" />
-
-<br/><br/>
-
 <a href="mailto:jonathanfarelemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jonathanfarrel/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Jonathan1366">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
 <br/>
 
-<div align="center">
-
-**🤖 // initializing engineer profile**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=1000&color=00ADD8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%24+whoami;%3E+jonathan_farrel_emanuel+-+go_backend_engineer;%24+go+run+main.go;%3E+serving+distributed+systems+in+production;%24+echo+%24STACK;%3E+Go+%E2%80%A2+AI+Agents+%E2%80%A2+Web3+%E2%80%A2+Distributed+Systems" alt="Terminal boot animation" />
+<img src="https://komarev.com/ghpvc/?username=Jonathan1366&style=for-the-badge&color=00C2FF" />
+<img src="https://img.shields.io/github/followers/Jonathan1366?style=for-the-badge&color=111827" />
+<img src="https://img.shields.io/github/stars/Jonathan1366?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=111827" />
 
 </div>
 
-<br/>
+~/profile/about_me.sh
 
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0B3D5C,100:00ADD8&height=6" />
+#!/usr/bin/env engineer
 
-## 👋 About Me
+name="Jonathan Farrel Emanuel"
+role="Go-first Backend Engineer"
+experience="3+ years production experience"
+core_focus=("backend engineering" "distributed systems" "real-time infrastructure")
+specialization=("AI systems" "trading infrastructure" "Web3/backend systems")
+frontend=("TypeScript" "React" "Next.js" "SvelteKit")
+mobile=("Flutter" "Dart")
+expanding=("Rust" "C++" "Java" "Python" "Node.js ecosystem")
+mission="Build serious systems that are scalable, observable, testable, and production-oriented."
 
-I am a **Golang Backend Engineer** with 3+ years of production experience building backend services, distributed systems, APIs, event-driven workflows, cloud-native applications, observability platforms, and data-intensive systems.
+I am a Go-first backend engineer with a strong interest in AI systems, trading infrastructure, Web3 engineering, and high-performance software systems.
 
-My engineering core is **Go + backend/distributed systems**, while I am deliberately expanding into full-stack product engineering, AI/ML systems, Web3 infrastructure, real-time market platforms, and cross-platform applications.
+My profile is intentionally shaped to feel like an engineer portfolio, not a student portfolio:
 
-I care about systems that are not only functional, but also scalable, observable, testable, secure, fault-tolerant, and useful in real products.
+main identity: backend engineer
 
-```text
-Backend Engineering
-      ↓
-Distributed Systems
-      ↓
-Real-Time Data Infrastructure
-      ↓
-Full-Stack Product Engineering
-      ↓
-AI / ML Systems
-      ↓
-Web3 & Market Infrastructure
-      ↓
-Scalable Products & Platforms
-```
+main weapon: Go
 
-## ⚙️ Engineering Profile
+main environment: distributed systems, data systems, APIs, cloud-native services
 
-| Area | Focus |
-|---|---|
-| **Core Engineering** | Go, Distributed Systems, REST/gRPC/GraphQL, Concurrency, Event-Driven Architecture |
-| **Data & Messaging** | PostgreSQL, Redis, Kafka, SQL, Transactions, Caching, Data Modeling |
-| **Cloud & Platform** | Docker, Kubernetes, Terraform, AWS, GCP, Linux, CI/CD |
-| **Observability** | OpenTelemetry, Prometheus, Grafana, Structured Logging, Tracing, Metrics |
-| **Full-Stack** | TypeScript, JavaScript, React, SvelteKit, Node.js, Flutter/Dart |
-| **AI / ML** | Python, PyTorch, OpenCV, RAG, LLM Applications, AI Agents |
-| **Web3 / Market Systems** | Ethereum, Solidity, Solana ecosystem, Wallet Systems, On-Chain Data, Market Data |
-| **Expanding Systems Depth** | Java, C++, Kotlin, PHP, High-Performance & Systems Programming |
+main expansion: AI/ML, trading platforms, Web3 infra, full-stack applications
 
-> **Positioning:** Go-first backend engineer with broad full-stack capability — building depth through real projects, production-style architecture, testing, observability, and open-source contribution.
+future engineering direction: more systems depth, Rust/C++, machine systems, advanced infrastructure
 
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0B3D5C,100:00ADD8&height=6" />
+~/profile/terminal_snapshot.log
 
-## 🧰 Technology Stack
+[BOOT] identity.................. Go-first backend engineer
+[BOOT] production experience..... 3+ years
+[BOOT] strongest domain.......... distributed systems / APIs / data workflows
+[BOOT] active growth............. AI systems / trading infra / Web3 infra
+[BOOT] frontend capability....... TypeScript / React / Next.js / SvelteKit
+[BOOT] mobile capability......... Flutter / Dart
+[BOOT] cloud capability.......... AWS / GCP / Docker / Kubernetes / Terraform
+[BOOT] data capability........... PostgreSQL / MySQL / Redis / Supabase / Vector DBs
+[BOOT] machine interest.......... real-world systems / robotics-style software / advanced engineering
+[STATUS] mode.................... build / optimize / scale / ship
 
-**Core Backend & Systems**
+~/stack/core_backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,kubernetes,terraform,aws,gcp,linux,git,github&perline=11" />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,mysql,redis,docker,kubernetes,terraform,aws,gcp,linux,git,github&perline=12" />
 </p>
 
-**Full-Stack & Application Engineering**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,svelte,nodejs,flutter,dart&perline=7" />
+<p>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-**Polyglot & Systems Expansion**
+~/stack/fullstack_and_apps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,php&perline=5" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,svelte,flutter,dart&perline=10" />
 </p>
 
-**AI / ML / Intelligent Systems**
+frontend direction:
+- react
+- next.js
+- svelte / sveltekit
+- typescript / javascript
 
-<p align="left">
+backend-for-frontend / app APIs:
+- node.js
+- express.js
+- nest.js
+
+mobile:
+- flutter
+- dart
+
+~/stack/ai_ml
+
+<p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=3" />
 </p>
 
-**Web3 / Blockchain / Market Infrastructure**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity&perline=1" />
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inference%20Systems-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--Time%20ML-155E75?style=for-the-badge" />
 </p>
 
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0B3D5C,100:00ADD8&height=6" />
+ai direction:
+- AI agent orchestration
+- research automation
+- inference pipelines
+- model experimentation
+- RAG / LLM applications
+- real-time data + intelligent systems
 
-## 🚀 Selected Engineering Work
+~/stack/web3_trading
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,rust&perline=2" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trading%20Systems-0B3D5C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Market%20Data-0A4D68?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/On--Chain%20Data-1C2541?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wallet%20Infrastructure-1E293B?style=for-the-badge" />
+</p>
+
+web3 / trading direction:
+- blockchain indexing
+- wallet / ledger systems
+- market-data ingestion
+- exchange connectivity
+- backtesting / paper trading
+- AI-assisted trading research
+
+~/stack/data_platforms
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0F4C75?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weaviate-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FB3B49?style=for-the-badge" />
+</p>
+
+data direction:
+- transactional systems
+- caching layers
+- event-driven processing
+- vector-search systems
+- time-series / market-data storage
+- data backends for AI agents, web2, and web3 products
+
+~/engineering/featured_projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔭 Observe System**
-*Go · Observability · Distributed Systems*
+🔭 Observe System
 
-Production-style observability backend focused on service health, traces, logs, metrics, and operational investigation.
+Go · observability · distributed systems
 
-`View Repository →`
+Production-style backend focused on traces, metrics, logs, service health, and operational visibility.
+
+view repository →
 
 </td>
 <td width="50%" valign="top">
 
-**🚘 RevAuto**
-*TypeScript · Product Engineering · Full-Stack*
+🚘 RevAuto
 
-A real-world product platform representing my work across application architecture, product workflows, testing, and full-stack engineering.
+TypeScript · full-stack · product engineering
 
-`View Repository →`
+A practical product platform reflecting architecture, workflows, testing, and end-to-end product engineering.
+
+view repository →
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⛓️ Blockchain Money Transfer**
-*Go · Transactions · Blockchain Concepts*
+⛓️ Blockchain Money Transfer
 
-A Go backend project exploring wallet and transfer workflows, layered backend structure, persistence, and blockchain-oriented systems.
+Go · wallet flows · transaction systems
 
-`View Repository →`
+A Go backend project exploring transfer flows, layered architecture, and blockchain-oriented backend concepts.
+
+view repository →
 
 </td>
 <td width="50%" valign="top">
 
-**🧠 VisionLab**
-*Python · Computer Vision · ML*
+🧠 VisionLab
 
-Computer-vision experimentation and applied ML engineering across model development, inference, and real-time processing.
+Python · computer vision · ML engineering
 
-`View Repository →`
+Applied machine-learning experimentation covering inference, pipelines, and real-time processing.
+
+view repository →
 
 </td>
 </tr>
 </table>
 
-## 🏗️ Flagship Systems I Am Building
+~/engineering/flagship_targets
 
-**1. marketstream-go**
-`Go · Kafka · WebSocket · PostgreSQL/TimescaleDB · Redis · OpenTelemetry`
-Real-time market-data infrastructure for ingesting, normalizing, processing, storing, and serving high-frequency exchange data with production-style reliability and observability.
+marketstream-go
+├── Go
+├── Kafka / WebSocket ingestion
+├── PostgreSQL / TimescaleDB
+├── Redis
+├── OpenTelemetry
+└── real-time market infrastructure
 
-**2. chain-indexer-go**
-`Go · Ethereum/EVM · RPC/WebSocket · PostgreSQL · Redis · Kafka`
-Blockchain indexing infrastructure for blocks, transactions, contract events, wallet activity, confirmations, retries, reorg handling, and API access.
+chain-indexer-go
+├── Go
+├── Ethereum / EVM / Solana style indexing
+├── RPC / WebSocket
+├── PostgreSQL
+├── Redis
+└── blockchain data pipelines
 
-**3. agentic-trading-lab**
-`Go · SvelteKit · TypeScript · Python · AI Agents · Backtesting`
-A full-stack research and paper-trading platform combining real-time market data, AI-assisted research, backtesting, risk controls, human approval, and analytical workflows.
+agentic-trading-lab
+├── Go backend
+├── SvelteKit frontend
+├── TypeScript
+├── Python AI agents
+├── backtesting
+└── paper trading workflows
 
-**4. wallet-ledger-go**
-`Go · PostgreSQL · Transactions · Concurrency · Web3`
-A concurrency-safe double-entry ledger and wallet service with idempotency, audit trails, atomic transfers, transaction states, and settlement adapters.
+wallet-ledger-go
+├── Go
+├── PostgreSQL
+├── atomic transfers
+├── idempotent workflows
+└── ledger / wallet infra
 
-**5. ai-model-lab**
-`Python · PyTorch · OpenCV · Model Serving · Real-Time Inference`
-A research-to-production ML repository covering model training, evaluation, inference optimization, serving, monitoring, and eventually custom model development.
+systems-performance-lab
+├── Rust / C++ / Go
+├── concurrency
+├── benchmarks
+├── low-latency systems
+└── deeper systems engineering
 
-**6. systems-performance-lab**
-`C++ · Go · Benchmarking · Concurrency · Networking`
-A systems-focused repository for performance-critical components, order-book structures, networking experiments, memory/performance profiling, and algorithmic engineering.
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0B3D5C,100:00ADD8&height=6" />
-
-## 📱 Full-Stack & Cross-Platform Direction
-
-I am intentionally building projects that prove end-to-end engineering capability rather than only listing technologies.
-
-```text
-Web Frontend        → TypeScript / React / SvelteKit
-Backend APIs        → Go / Node.js / Java / Python
-Mobile              → Flutter / Dart / Kotlin
-Data                → PostgreSQL / Redis / Kafka
-AI & ML             → Python / PyTorch / OpenCV / LLM Systems
-Cloud               → Docker / Kubernetes / Terraform / AWS / GCP
-Web3                → Ethereum / Solidity / Solana / On-Chain Infrastructure
-Systems             → Go / C++ / Linux / Networking / Concurrency
-```
-
-## 🌍 Open Source & Engineering Growth
-
-I am building toward meaningful contributions across:
-
-**Go ecosystem · OpenTelemetry · Observability · Distributed systems · Svelte/SvelteKit · Web3 infrastructure · Ethereum tooling · Solana ecosystem · AI/ML tooling**
-
-The goal is not contribution-count farming — it is to contribute fixes, tests, features, performance improvements, documentation, and engineering work that demonstrates real understanding.
-
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0B3D5C,100:00ADD8&height=6" />
-
-## 📊 Engineering Activity
+~/github/metrics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jonathan1366&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan1366&theme=github-dark-blue&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan1366&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Jonathan1366&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jonathan1366&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=00ADD8&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan1366&layout=compact&theme=github_dark&hide_border=true&langs_count=12" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jonathan1366&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
-### 🐍 Contribution Activity
+~/github/snake_animation
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Jonathan1366/Jonathan1366/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
 </div>
 
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0B3D5C,100:00ADD8&height=6" />
+~/engineering/principles.md
 
-## 🎯 What I Optimize For
+correctness   -> reliable behavior under real failure modes
+performance   -> efficient CPU, memory, network, and database usage
+scalability   -> systems that grow past a single service
+observability -> traces, metrics, logs, actionable debugging
+security      -> safe defaults, validation, secrets hygiene, access control
+testing       -> unit, integration, end-to-end, deterministic pipelines
+ownership     -> architecture -> implementation -> deployment -> operation
 
-```text
-Correctness      → reliable behavior under real failure modes
-Performance      → efficient CPU, memory, I/O, and database usage
-Scalability      → systems that grow beyond a single process
-Observability    → traces, metrics, logs, and actionable debugging
-Security         → safe defaults, validation, access control, secrets hygiene
-Testing          → unit, integration, end-to-end, and deterministic workflows
-Product Value    → software that solves meaningful user and business problems
-Ownership        → architecture → implementation → deployment → operation
-```
-
-## 🤝 Let's Connect
-
-I am interested in challenging engineering work across backend systems, full-stack products, platform engineering, AI/ML infrastructure, real-time systems, fintech, Web3, and globally distributed engineering teams.
+~/connect
 
 <div align="center">
 
 <a href="mailto:jonathanfarelemanuel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0B1220?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jonathanfarrel/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -267,10 +304,6 @@ I am interested in challenging engineering work across backend systems, full-sta
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jonathan1366&style=for-the-badge&color=00ADD8" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0B3D5C,100:00ADD8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,35:0B1F3A,70:003B5C,100:00C2FF" />
 
 </div>
