@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="228" viewBox="0 0 240 228" role="img" aria-labelledby="title">
+<title id="title">PROFILE IMAGE placeholder</title>
+<rect width="240" height="228" rx="16" fill="#07101d"/>
+<rect x="1" y="1" width="238" height="226" rx="15" fill="none" stroke="#163047"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><text x="20" y="30" font-size="11" fill="#8195b1" >VISUAL / 01</text>
+<rect x="24" y="48" width="192" height="110" rx="8" fill="#0b1f3a" stroke="#24445e" stroke-dasharray="5 5"/><path d="M44 137l44-46 32 30 29-24 47 40" fill="none" stroke="#00e7ff" stroke-width="2"/><circle cx="167" cy="75" r="9" fill="#00ff9c"/><text x="120" y="186" font-size="14" fill="#eaf6ff" text-anchor="middle">PROFILE IMAGE</text>
+<text x="120" y="208" font-size="11" fill="#8195b1" text-anchor="middle">Your photo / illustration</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title">
+<title id="title">Ingest → Process → Store → Serve → Observe → Ship</title>
+<rect width="1200" height="140" rx="16" fill="#07101d"/>
+<rect x="1" y="1" width="1198" height="138" rx="15" fill="none" stroke="#163047"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><text x="30" y="35" font-size="14" fill="#8195b1" >SYSTEM PIPELINE</text>
+<rect x="30" y="58" width="160" height="52" rx="8" fill="#0b1f3a" stroke="#163047"/><text x="110" y="90" font-size="16" fill="#00e7ff" text-anchor="middle">INGEST</text>
+<text x="200" y="90" font-size="18" fill="#00ff9c" >→</text>
+<rect x="225" y="58" width="160" height="52" rx="8" fill="#0b1f3a" stroke="#163047"/><text x="305" y="90" font-size="16" fill="#00e7ff" text-anchor="middle">PROCESS</text>
+<text x="395" y="90" font-size="18" fill="#00ff9c" >→</text>
+<rect x="420" y="58" width="160" height="52" rx="8" fill="#0b1f3a" stroke="#163047"/><text x="500" y="90" font-size="16" fill="#00e7ff" text-anchor="middle">STORE</text>
+<text x="590" y="90" font-size="18" fill="#00ff9c" >→</text>
+<rect x="615" y="58" width="160" height="52" rx="8" fill="#0b1f3a" stroke="#163047"/><text x="695" y="90" font-size="16" fill="#00e7ff" text-anchor="middle">SERVE</text>
+<text x="785" y="90" font-size="18" fill="#00ff9c" >→</text>
+<rect x="810" y="58" width="160" height="52" rx="8" fill="#0b1f3a" stroke="#163047"/><text x="890" y="90" font-size="16" fill="#00e7ff" text-anchor="middle">OBSERVE</text>
+<text x="980" y="90" font-size="18" fill="#00ff9c" >→</text>
+<rect x="1005" y="58" width="160" height="52" rx="8" fill="#0b1f3a" stroke="#163047"/><text x="1085" y="90" font-size="16" fill="#00e7ff" text-anchor="middle">SHIP</text>
+</g>
+</svg>

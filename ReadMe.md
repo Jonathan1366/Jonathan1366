@@ -42,14 +42,45 @@ The work I actually spend time on is not the demo path. It's the part that has t
 
 Backend is the job. The rest of this profile is the same job on harder surfaces.
 
-```
-backend (the core)
-    →  distributed / event-driven systems
-    →  real-time data pipelines
-    →  AI agents as infrastructure
-    →  trading / market infra
-    →  Web3 backends  (indexers, ledgers, reorg-safe pipelines)
-```
+### engineering map
+
+<table>
+<tr>
+<td width="68%" valign="top">
+<pre>Jonathan
+  │
+  ├── CORE
+  │    └── Go Backend Engineer
+  │
+  ├── DEPTH
+  │    ├── Distributed Systems
+  │    ├── Data / Kafka / PostgreSQL
+  │    ├── Cloud / Kubernetes
+  │    └── Observability
+  │
+  ├── BREADTH
+  │    ├── React / TS / Next / SvelteKit
+  │    └── Flutter
+  │
+  └── NEXT SPECIALIZATION
+       ├── AI systems
+       ├── Trading infrastructure
+       ├── Web3 backends
+       └── Rust / C++ systems</pre>
+</td>
+<td width="32%" valign="top" align="right">
+<!-- RIGHT COLUMN: Upload your images to assets/, then replace the two src paths below.
+     Keep width="240" and align="right" on this cell. PNG, JPG, GIF, and SVG can be used.
+     These are placeholder illustrations, not project screenshots. -->
+<img src="./assets/profile-visual-01.svg" width="240" alt="Placeholder for Jonathan's profile image" />
+<br/><br/>
+<img src="./assets/profile-visual-02.svg" width="240" alt="Placeholder for a project image" />
+</td>
+</tr>
+</table>
+
+**Core** is my engineering identity. **Depth** is where I strengthen it. **Breadth** lets me work across the product. **Next specialization** is the direction I am developing through projects.
+
 
 I'm not switching careers into "AI" or "crypto." I want to take the backend work I already do — correctness, throughput, observability, failure handling — into those environments.
 
@@ -83,6 +114,14 @@ Agents with tools, guardrails, and eval. RAG that starts on Postgres + pgvector 
 [ OK ] next ................. AI agents · trading infra · web3 backends
 [ OK ] mode ................. build → measure → scale when it hurts
 ```
+
+---
+
+### stack --all
+
+<img src="./assets/tech-stack.svg" width="100%" alt="Technology stack across backend, platform, frontend, mobile, data, AI, Web3 and systems" />
+
+Go backend engineering is the core. The wider stack includes supporting tools and areas of project-level exploration; it does not imply equal production experience in every technology.
 
 ---
 
