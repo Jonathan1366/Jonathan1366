@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+<title id="title">Go backend engineering — coding terminal</title>
+<desc id="desc">Illustrative Go event worker. Go and distributed systems are the core; Rust and C++ are additional systems exploration. Animated cursor and event flow. No live metrics.</desc>
+<defs><linearGradient id="edge" x2="1" y2="0"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+<style>
+.code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:16px}
+.cursor{animation:blink 1.2s steps(1,end) infinite}
+.packet{animation:travel 5s linear infinite}
+.line{animation:focus 8s ease-in-out infinite}
+@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:0}}
+@keyframes travel{0%{transform:translateX(0);opacity:0}10%,85%{opacity:1}100%{transform:translateX(158px);opacity:0}}
+@keyframes focus{0%,100%{opacity:.55}35%,75%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.cursor,.packet,.line{animation:none}.packet{opacity:0}}
+</style>
+<rect width="1000" height="310" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="308" rx="13" fill="none" stroke="#30363d"/>
+<path d="M16 1h968" stroke="url(#edge)" stroke-width="2"/>
+<path d="M1 44h998M670 44v265" stroke="#30363d"/>
+<circle cx="22" cy="23" r="5" fill="#ff5f57"/><circle cx="40" cy="23" r="5" fill="#febc2e"/><circle cx="58" cy="23" r="5" fill="#28c840"/>
+<g class="code" xml:space="preserve">
+<text x="92" y="28" fill="#e6edf3" font-size="13">main.go</text><text x="200" y="28" fill="#9da7b3" font-size="13">worker.rs / exploring</text>
+<text x="970" y="28" fill="#2dd4bf" text-anchor="end" font-size="12">BACKEND / SYSTEMS</text>
+<text x="22" y="77" fill="#6e7681" font-size="12">01</text><text x="58" y="77" fill="#8b949e" class="line" style="animation-delay:0.0s">// Go first. Build reliable event-driven systems.</text><text x="22" y="101" fill="#6e7681" font-size="12">02</text><text x="58" y="101" fill="#79c0ff" class="line" style="animation-delay:0.25s">func consume(events &lt;-chan Event) {</text><text x="22" y="125" fill="#6e7681" font-size="12">03</text><text x="58" y="125" fill="#c9d1d9" class="line" style="animation-delay:0.5s">    for event := range events {</text><text x="22" y="149" fill="#6e7681" font-size="12">04</text><text x="58" y="149" fill="#c9d1d9" class="line" style="animation-delay:0.75s">        if err := handle(event); err != nil {</text><text x="22" y="173" fill="#6e7681" font-size="12">05</text><text x="58" y="173" fill="#a5d6ff" class="line" style="animation-delay:1.0s">            log.Printf("process event: %v", err)</text><text x="22" y="197" fill="#6e7681" font-size="12">06</text><text x="58" y="197" fill="#c9d1d9" class="line" style="animation-delay:1.25s">        }</text><text x="22" y="221" fill="#6e7681" font-size="12">07</text><text x="58" y="221" fill="#c9d1d9" class="line" style="animation-delay:1.5s">    }</text><text x="22" y="245" fill="#6e7681" font-size="12">08</text><text x="58" y="245" fill="#79c0ff" class="line" style="animation-delay:1.75s">}</text><text x="24" y="284" fill="#2dd4bf" font-size="14">➜</text><text x="49" y="284" fill="#c9d1d9" font-size="14">go run ./cmd/worker</text><rect class="cursor" x="220" y="270" width="8" height="17" rx="1" fill="#2dd4bf"/>
+<text x="698" y="81" fill="#2dd4bf" font-size="11" letter-spacing="2">PRIMARY FOCUS</text>
+<text x="698" y="113" fill="#f0f6fc" font-size="23" font-weight="700">Go / Distributed</text>
+<text x="698" y="137" fill="#9da7b3" font-size="13">APIs · Kafka · PostgreSQL</text>
+<text x="698" y="161" fill="#9da7b3" font-size="13">Concurrency · Observability</text>
+<path d="M700 187h264" stroke="#30363d"/>
+<text x="698" y="213" fill="#a5b4fc" font-size="11" letter-spacing="2">SYSTEMS EXPLORATION</text>
+<text x="698" y="240" fill="#e6edf3" font-size="18">Rust / C++</text>
+<text x="698" y="262" fill="#9da7b3" font-size="12">Performance · Real-time systems</text>
+<path d="M700 284h264" stroke="#24445e" stroke-dasharray="3 6"/>
+<rect class="packet" x="705" y="281" width="28" height="5" rx="2" fill="#2dd4bf"/>
+</g></svg>

@@ -1,0 +1,17 @@
+{
+  "observed_at": "2026-09-21",
+  "metric": "GitHub language bytes (not completion or proficiency)",
+  "repositories": {
+    "observe-system": {
+      "Go": 60162,
+      "Makefile": 263
+    },
+    "blockchain-money-transfer": {
+      "Go": 17474
+    },
+    "RevAuto": {
+      "TypeScript": 280994,
+      "JavaScript": 468
+    }
+  }
+}
