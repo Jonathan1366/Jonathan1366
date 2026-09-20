@@ -16,7 +16,6 @@
 
 <a href="https://github.com/Jonathan1366/Jonathan1366/actions/workflows/profile-pulse.yml"><img src="https://raw.githubusercontent.com/Jonathan1366/Jonathan1366/profile-metrics/pulse.svg" width="100%" alt="Automatically refreshed project data: language composition, default-branch commits over 14 UTC days, and last push. Collection time is shown in the chart." /></a>
 
-<sub>Data refresh scheduled every 5 minutes; Actions and image caches can delay updates. Bars show code composition, not completion. [Refresh status](https://github.com/Jonathan1366/Jonathan1366/actions/workflows/profile-pulse.yml).</sub>
 
 <details>
 <summary><b>Toolkit & direction</b></summary>
