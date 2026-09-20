@@ -2,7 +2,7 @@
 
 **Go Backend Engineer** focused on **distributed systems, reliable APIs, and observability**. I build with Go, PostgreSQL, Kafka, Redis, and cloud infrastructure.
 
-**Also:** TypeScript/React · Node.js · Python · Flutter. **Exploring:** Rust/C++, AI systems, trading infrastructure, Web3, and real-time control.
+**Also:** TypeScript/React · Node.js · Python · Flutter · Rust · C++, AI systems, trading infrastructure, Web3, and real-time control.
 
 [Portfolio](https://project-86len.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jonathanfarrel/) · [Email](mailto:jonathanfarelemanuel@gmail.com)
 
