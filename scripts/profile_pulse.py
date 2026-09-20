@@ -96,7 +96,7 @@ def render(data):
                 height = n / max(peak, 1) * 24
                 body += f'<rect class="activity" x="{558+day*9.5}" y="{y+14-height:.2f}" width="6" height="{height:.2f}" rx="1" fill="#2dd4bf"/>'
         body += text(724, y + 6, sum(row['daily_commits']), 13, '#e6edf3', 'text-anchor="end"')
-        pushed = date_of(row['last_push']).strftime('%d %b %H:%M') if row['last_push'] else '—'
+        pushed = date_of(row['last_push']).strftime('%d %b %Y') if row['last_push'] else '—'
         body += text(878, y + 6, pushed, 11, '#9da7b3', 'text-anchor="end"')
         if i < len(rows) - 1:
             body += f'<path d="M22 {y+31}h856" stroke="#21262d"/>'
